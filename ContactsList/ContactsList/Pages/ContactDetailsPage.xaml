@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ContactsList.Pages"
+             x:Class="ContactsList.Pages.ContactDetailsPage">
+    <ContentPage.Content>
+        <StackLayout Padding="20" Spacing="12">
+            <local:ContactCommonView />
+            <Button Text="Update" BorderRadius="0" Margin="0,30,0,0" FontAttributes="Bold" TextColor="White" BackgroundColor="#5989B5" Command="{Binding UpdateContactCommand}" />
+            <Button Text="Delete" BorderRadius="0" Margin="0,30,0,0" FontAttributes="Bold" TextColor="White" BackgroundColor="#5989B5" Command="{Binding DeleteContactCommand}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
