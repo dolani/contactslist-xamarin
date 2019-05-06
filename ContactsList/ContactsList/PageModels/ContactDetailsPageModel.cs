@@ -21,6 +21,9 @@ namespace ContactsList.PageModels
             _contact = new ContactInfo();
 
             UpdateContactCommand = new Command(async () => await UpdateContact());
+            DeleteContactCommand = new Command(async () => await DeleteContact());
+
+
         }
 
         public override void Init(object initData)

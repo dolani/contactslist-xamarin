@@ -2361,11 +2361,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\ContactsList\\ContactsList.Android\\ContactsList.Android.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\contactslist-xamarin\\ContactsList\\ContactsList.Android\\ContactsList.Android.csproj",
       "projectName": "ContactsList.Android",
-      "projectPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\ContactsList\\ContactsList.Android\\ContactsList.Android.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\contactslist-xamarin\\ContactsList\\ContactsList.Android\\ContactsList.Android.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\ContactsList\\ContactsList.Android\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\contactslist-xamarin\\ContactsList\\ContactsList.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2386,8 +2386,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\ContactsList\\ContactsList\\ContactsList.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\ContactsList\\ContactsList\\ContactsList.csproj"
+            "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\contactslist-xamarin\\ContactsList\\ContactsList\\ContactsList.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\contactslist-xamarin\\ContactsList\\ContactsList\\ContactsList.csproj"
             }
           }
         }

@@ -1672,11 +1672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\ContactsList\\ContactsList.iOS\\ContactsList.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\contactslist-xamarin\\ContactsList\\ContactsList.iOS\\ContactsList.iOS.csproj",
       "projectName": "ContactsList.iOS",
-      "projectPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\ContactsList\\ContactsList.iOS\\ContactsList.iOS.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\contactslist-xamarin\\ContactsList\\ContactsList.iOS\\ContactsList.iOS.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\ContactsList\\ContactsList.iOS\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\contactslist-xamarin\\ContactsList\\ContactsList.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1697,8 +1697,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\ContactsList\\ContactsList\\ContactsList.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\ContactsList\\ContactsList\\ContactsList.csproj"
+            "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\contactslist-xamarin\\ContactsList\\ContactsList\\ContactsList.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\contactslist-xamarin\\ContactsList\\ContactsList\\ContactsList.csproj"
             }
           }
         }

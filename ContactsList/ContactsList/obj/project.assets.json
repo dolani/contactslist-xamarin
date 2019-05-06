@@ -1002,11 +1002,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\ContactsList\\ContactsList\\ContactsList.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\contactslist-xamarin\\ContactsList\\ContactsList\\ContactsList.csproj",
       "projectName": "ContactsList",
-      "projectPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\ContactsList\\ContactsList\\ContactsList.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\contactslist-xamarin\\ContactsList\\ContactsList\\ContactsList.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\ContactsList\\ContactsList\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\Xamarin\\contactslist-xamarin\\ContactsList\\ContactsList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
